@@ -1,2 +1,11 @@
 # AR-Insights-Dashboard
-Accounts Receivable (AR) dashboard using B2B data. The goal is to enhance efficiency in AR tasks: tracking, collecting past-due invoices, and optimizing cash inflow. Visualizing key metrics like DSO and invoice aging will allow the AR team to quickly prioritize overdue accounts and improve working capital management.
+Using a synthetic dataset to design an end-to-end AR dashboard that tracks the full receivables lifecycle, connects sales to cash, and enables finance and sales teams to act on insights.
+
+Questions I want to answer:
+1. How fast are we converting sales into cash?
+2. Where is cash getting stuck?
+3. Which customers or sales representatives are driving risks?
+4. How effective are collections?
+
+
+
